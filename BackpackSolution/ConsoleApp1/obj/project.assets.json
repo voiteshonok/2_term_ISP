@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\try1092\\Isp\\BackpackSolution\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\2_term_ISP\\BackpackSolution\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\try1092\\Isp\\BackpackSolution\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\2_term_ISP\\BackpackSolution\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\try1092\\Isp\\BackpackSolution\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\2_term_ISP\\BackpackSolution\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

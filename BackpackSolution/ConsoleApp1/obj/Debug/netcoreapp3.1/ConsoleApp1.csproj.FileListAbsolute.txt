@@ -20,3 +20,14 @@ D:\try1092\Isp\BackpackSolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.
 D:\try1092\Isp\BackpackSolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
 D:\try1092\Isp\BackpackSolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 D:\try1092\Isp\BackpackSolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\2_term_ISP\BackpackSolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

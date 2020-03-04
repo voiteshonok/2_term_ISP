@@ -127,11 +127,12 @@ namespace ConsoleApp1
                         dp[j, i] = dp[j, i - 1];
                         if (weight[i] <= j)
                         {
-                            dp[j, i] = Max(dp[W - weight[i], i - 1] + value[i], dp[j, i]);
+                            dp[j, i] = Max(dp[j - weight[i], i - 1] + value[i], dp[j, i]);
                         }
                     }
                 }
                 Console.WriteLine("total value = " + dp[W, n] +"\nNumbers of used things :");
+                
 
                 bool[] wasUsed = new bool[n + 1];
                 int J = W, I = n;
