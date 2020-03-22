@@ -1,14 +1,12 @@
-﻿using System;
-using System.IO;
-
-namespace ConsoleApp1
+﻿namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            SolutionClass pack = new SolutionClass();
 
+            SolutionClass pack = new SolutionClass();
+            pack.MyProgram();
         }
     }
 }

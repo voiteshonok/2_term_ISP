@@ -1,16 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.IO;
 
 namespace ConsoleApp1
 {
     class SolutionClass
     {
-        public SolutionClass()
+        /*public SolutionClass()
         {
             MyProgram();
-        }
+        }*/
         public void MyProgram()
         {
             string name = "input.txt";
@@ -75,9 +73,8 @@ namespace ConsoleApp1
 
         bool SplittedChech(string firstStr)
         {
-            bool ok = true;
 
-            if (firstStr == null || !firstStr.Contains(' '))
+            if (firstStr == null)
             {
                 return false;
             }
@@ -85,23 +82,23 @@ namespace ConsoleApp1
 
             if (splitted.Length != 2)
             {
-                ok = false;
+                return false;
             }
             foreach (var c in splitted[0])
             {
                 if (c - '0' > 9 || c - '0' < 0)
                 {
-                    ok = false;
+                    return false;
                 }
             }
             foreach (var c in splitted[1])
             {
                 if (c - '0' > 9 || c - '0' < 0)
                 {
-                    ok = false;
+                    return false;
                 }
             }
-            return ok;
+            return true;
         }
 
         void Solution(string name)
@@ -114,7 +111,12 @@ namespace ConsoleApp1
 
                 int[] value = new int[n + 1];
                 int[] weight = new int[n + 1];
-                int[,] dp = new int[W + 1, n + 1];
+                //int[,] dp = new int[W + 1, n + 1];
+                int[][] dp = new int[W + 1][];
+                for(int i = 0; i <= W; i++)
+                {
+                    dp[i] = new int[n + 1];
+                }
 
                 for (int i = 1; i < n + 1; i++)
                 {
@@ -129,17 +131,19 @@ namespace ConsoleApp1
                 {
                     for (int j = 1; j < W + 1; j++)
                     {
-                        dp[j, i] = dp[j, i - 1];
+                        //dp[j, i] = dp[j, i - 1];
+                        dp[j][i] = dp[j][i - 1];
                         if (weight[i] <= j)
                         {
-                            dp[j, i] = Max(dp[j - weight[i], i - 1] + value[i], dp[j, i]);
+                            //dp[j, i] = Math.Max(dp[j - weight[i], i - 1] + value[i], dp[j, i]);
+                            dp[j][i] = Math.Max(dp[j - weight[i]][ i - 1] + value[i], dp[j][i]);
                         }
                     }
                 }
-                Console.WriteLine("total value = " + dp[W, n] + "\nNumbers of used things :");
+                //Console.WriteLine("total value = " + dp[W, n] + "\nNumbers of used things :");
+                Console.WriteLine("total value = " + dp[W][n] + "\nNumbers of used things :");
 
-
-                bool[] wasUsed = new bool[n + 1];
+                /*bool[] wasUsed = new bool[n + 1];
                 int J = W, I = n;
                 while (I > 0)
                 {
@@ -156,13 +160,13 @@ namespace ConsoleApp1
                     {
                         Console.Write(i + " ");
                     }
-                }
+                }*/
             }
         }
 
-        int Max(int a, int b)
+        /*int Max(int a, int b)
         {
             return a < b ? b : a;
-        }
+        }*/
     }
 }
