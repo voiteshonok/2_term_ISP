@@ -1,0 +1,11 @@
+D:\2_term_ISP\4Lab\2Task\bin\Debug\netcoreapp3.1\2Task.exe
+D:\2_term_ISP\4Lab\2Task\bin\Debug\netcoreapp3.1\2Task.deps.json
+D:\2_term_ISP\4Lab\2Task\bin\Debug\netcoreapp3.1\2Task.runtimeconfig.json
+D:\2_term_ISP\4Lab\2Task\bin\Debug\netcoreapp3.1\2Task.runtimeconfig.dev.json
+D:\2_term_ISP\4Lab\2Task\bin\Debug\netcoreapp3.1\2Task.dll
+D:\2_term_ISP\4Lab\2Task\bin\Debug\netcoreapp3.1\2Task.pdb
+D:\2_term_ISP\4Lab\2Task\obj\Debug\netcoreapp3.1\2Task.csprojAssemblyReference.cache
+D:\2_term_ISP\4Lab\2Task\obj\Debug\netcoreapp3.1\2Task.AssemblyInfoInputs.cache
+D:\2_term_ISP\4Lab\2Task\obj\Debug\netcoreapp3.1\2Task.AssemblyInfo.cs
+D:\2_term_ISP\4Lab\2Task\obj\Debug\netcoreapp3.1\2Task.dll
+D:\2_term_ISP\4Lab\2Task\obj\Debug\netcoreapp3.1\2Task.pdb
