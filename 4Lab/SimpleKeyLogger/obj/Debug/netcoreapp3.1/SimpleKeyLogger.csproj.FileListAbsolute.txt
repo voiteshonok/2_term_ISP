@@ -1,0 +1,11 @@
+D:\2_term_ISP\4Lab\SimpleKeyLogger\bin\Debug\netcoreapp3.1\SimpleKeyLogger.exe
+D:\2_term_ISP\4Lab\SimpleKeyLogger\bin\Debug\netcoreapp3.1\SimpleKeyLogger.deps.json
+D:\2_term_ISP\4Lab\SimpleKeyLogger\bin\Debug\netcoreapp3.1\SimpleKeyLogger.runtimeconfig.json
+D:\2_term_ISP\4Lab\SimpleKeyLogger\bin\Debug\netcoreapp3.1\SimpleKeyLogger.runtimeconfig.dev.json
+D:\2_term_ISP\4Lab\SimpleKeyLogger\bin\Debug\netcoreapp3.1\SimpleKeyLogger.dll
+D:\2_term_ISP\4Lab\SimpleKeyLogger\bin\Debug\netcoreapp3.1\SimpleKeyLogger.pdb
+D:\2_term_ISP\4Lab\SimpleKeyLogger\obj\Debug\netcoreapp3.1\SimpleKeyLogger.csprojAssemblyReference.cache
+D:\2_term_ISP\4Lab\SimpleKeyLogger\obj\Debug\netcoreapp3.1\SimpleKeyLogger.AssemblyInfoInputs.cache
+D:\2_term_ISP\4Lab\SimpleKeyLogger\obj\Debug\netcoreapp3.1\SimpleKeyLogger.AssemblyInfo.cs
+D:\2_term_ISP\4Lab\SimpleKeyLogger\obj\Debug\netcoreapp3.1\SimpleKeyLogger.dll
+D:\2_term_ISP\4Lab\SimpleKeyLogger\obj\Debug\netcoreapp3.1\SimpleKeyLogger.pdb
