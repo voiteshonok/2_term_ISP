@@ -1,0 +1,11 @@
+D:\2_term_ISP\7Lab\bin\Debug\netcoreapp3.1\7Lab.exe
+D:\2_term_ISP\7Lab\bin\Debug\netcoreapp3.1\7Lab.deps.json
+D:\2_term_ISP\7Lab\bin\Debug\netcoreapp3.1\7Lab.runtimeconfig.json
+D:\2_term_ISP\7Lab\bin\Debug\netcoreapp3.1\7Lab.runtimeconfig.dev.json
+D:\2_term_ISP\7Lab\bin\Debug\netcoreapp3.1\7Lab.dll
+D:\2_term_ISP\7Lab\bin\Debug\netcoreapp3.1\7Lab.pdb
+D:\2_term_ISP\7Lab\obj\Debug\netcoreapp3.1\7Lab.csprojAssemblyReference.cache
+D:\2_term_ISP\7Lab\obj\Debug\netcoreapp3.1\7Lab.AssemblyInfoInputs.cache
+D:\2_term_ISP\7Lab\obj\Debug\netcoreapp3.1\7Lab.AssemblyInfo.cs
+D:\2_term_ISP\7Lab\obj\Debug\netcoreapp3.1\7Lab.dll
+D:\2_term_ISP\7Lab\obj\Debug\netcoreapp3.1\7Lab.pdb
