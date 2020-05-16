@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
+using System.Text.RegularExpressions;
 
 namespace _7Lab
 {
@@ -228,6 +229,46 @@ namespace _7Lab
                 default:
                     throw new FormatException($"Invalid format {format}");
             }
+        }
+
+        public static Fraction Parse(string str)
+        {
+            if(TryParse(str,out Fraction result))
+            {
+                return result;
+            }
+            else
+            {
+                throw new FormatException("Invalid format");
+            }
+        }
+
+        public static bool TryParse(string str,out Fraction result)
+        {
+            Regex pattern1 = new Regex(@"^(-?\d+)/(\d+)$");
+            Regex pattern2 = new Regex(@"^(-?\d+)$");
+            Regex pattern3 = new Regex(@"^(-?\d+),(\d+)$");
+            if (pattern1.IsMatch(str))
+            {
+                Match match = pattern1.Match(str);
+                result = new Fraction(int.Parse(match.Groups[1].Value),
+                                            int.Parse(match.Groups[2].Value));
+                return true;
+            }
+            if (pattern2.IsMatch(str))
+            {
+                Match match = pattern2.Match(str);
+                result = new Fraction(int.Parse(match.Groups[1].Value), 1);
+                return true;
+            }
+            if (pattern3.IsMatch(str))
+            {
+                double number = Convert.ToDouble(str);
+                result = GetFractionFromDecimal((decimal)number);
+                return true;
+            }
+            result = null;
+            return false;
         }
     }
 }
