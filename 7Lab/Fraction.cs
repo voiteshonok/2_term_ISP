@@ -263,8 +263,7 @@ namespace _7Lab
             }
             if (pattern3.IsMatch(str))
             {
-                double number = Convert.ToDouble(str);
-                result = GetFractionFromDecimal((decimal)number);
+                result = GetFractionFromDecimal(Convert.ToDecimal(str));
                 return true;
             }
             result = null;
