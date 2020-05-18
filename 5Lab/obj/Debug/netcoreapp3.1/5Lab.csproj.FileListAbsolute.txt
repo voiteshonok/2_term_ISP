@@ -1,0 +1,11 @@
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.exe
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.deps.json
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.runtimeconfig.json
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.runtimeconfig.dev.json
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.dll
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.pdb
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.csprojAssemblyReference.cache
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.AssemblyInfoInputs.cache
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.AssemblyInfo.cs
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.dll
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.pdb
