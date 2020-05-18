@@ -7,15 +7,6 @@ namespace _3Lab
     {
         static void Main(string[] args)
         {
-            //Transport tr = new Transport();
-            //Console.WriteLine(tr);
-            /*try
-            {
-                Transport fr = new Transport(-32,"23");
-            }catch(Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }*/
             var list = new List<Transport>
             {
                 new Transport(),
@@ -82,7 +73,6 @@ namespace _3Lab
                                 {
                                     Console.WriteLine("Invalid input\n");
                                 }
-
                                 break;
                             }
                         case 4:
