@@ -1,0 +1,11 @@
+D:\2_term_ISP\8Lab\bin\Debug\netcoreapp3.1\8Lab.exe
+D:\2_term_ISP\8Lab\bin\Debug\netcoreapp3.1\8Lab.deps.json
+D:\2_term_ISP\8Lab\bin\Debug\netcoreapp3.1\8Lab.runtimeconfig.json
+D:\2_term_ISP\8Lab\bin\Debug\netcoreapp3.1\8Lab.runtimeconfig.dev.json
+D:\2_term_ISP\8Lab\bin\Debug\netcoreapp3.1\8Lab.dll
+D:\2_term_ISP\8Lab\bin\Debug\netcoreapp3.1\8Lab.pdb
+D:\2_term_ISP\8Lab\obj\Debug\netcoreapp3.1\8Lab.csprojAssemblyReference.cache
+D:\2_term_ISP\8Lab\obj\Debug\netcoreapp3.1\8Lab.AssemblyInfoInputs.cache
+D:\2_term_ISP\8Lab\obj\Debug\netcoreapp3.1\8Lab.AssemblyInfo.cs
+D:\2_term_ISP\8Lab\obj\Debug\netcoreapp3.1\8Lab.dll
+D:\2_term_ISP\8Lab\obj\Debug\netcoreapp3.1\8Lab.pdb
