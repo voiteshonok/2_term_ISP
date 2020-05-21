@@ -191,12 +191,7 @@ namespace _7Lab
         {
             return obj is Fraction && (this.CompareTo(obj as Fraction) == 0);
         }
-
-        bool IEquatable<Fraction>.Equals(Fraction other)
-        {
-            return CompareTo(other) == 0;
-        }
-
+        
         override public int GetHashCode()
         {
             return HashCode.Combine(Numerator, Denominator);
